@@ -1,6 +1,6 @@
 # 🚀 Quick Actions Demo
 
-A Flutter sample showcasing home screen **Quick Actions** (App Shortcuts on Android) using the `quick_actions` plugin (v1.1.0+), compatible with Android SDK 16+ (features active from SDK 25+) and iOS 9.0+ ([pub.dev][1]).
+A Flutter sample showcasing home screen **Quick Actions** (App Shortcuts on Android & eponymous concept on iOS) using the `quick_actions` plugin.
 
 ## 🔍 Features
 
