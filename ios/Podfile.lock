@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - quick_actions_ios (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - quick_actions_ios (from `.symlinks/plugins/quick_actions_ios/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  quick_actions_ios:
+    :path: ".symlinks/plugins/quick_actions_ios/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  quick_actions_ios: 4b07fb49d8d8f3518d7565fbb7a91014067a7d82
+
+PODFILE CHECKSUM: 4305caec6b40dde0ae97be1573c53de1882a07e5
+
+COCOAPODS: 1.16.2
